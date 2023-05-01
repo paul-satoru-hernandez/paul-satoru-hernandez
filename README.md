@@ -1,6 +1,8 @@
 # Hello, I'm Paul!
 
-I am a sophomore studying computer science and engineering at Uconn.
----
-### Info
-Nothing here yet, but sure to come!
+I am a rising senior studying Computer Science and Engineering at the University of Connecticut.
+My 2 favorite/ preferred languages are C/C++.
+
+## What I'm working on:
+
+* Text Editor in C++
